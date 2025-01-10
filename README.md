@@ -42,18 +42,22 @@ The remaining columns are numerical features describing the vehicle's silhouette
 
 Here are the numerical columns included in the dataset:
 
-Compactness
-Circularity
-Distance Circularity
-Radius Ratio
-PR Axis Aspect Ratio
-Max Length Aspect Ratio
-Scatter Ratio
-Elongatedness
-PR Axis Rectangularity
-Max Length Rectangularity
-Scaled Variance (two columns: .1 and unmarked)
-Scaled Radius of Gyration (two columns: .1 and unmarked)
-Skewness About (three columns: .1, .2, and unmarked)
-Hollows Ratio
-This dataset forms the foundation for analyzing and modeling vehicle classification based on silhouette characteristics.
+* Compactness
+* Circularity
+* Distance Circularity
+* Radius Ratio
+* PR Axis Aspect Ratio
+* Max Length Aspect Ratio
+* Scatter Ratio
+* Elongatedness
+* PR Axis Rectangularity
+* Max Length Rectangularity
+* Scaled Variance (two columns: .1 and unmarked)
+* Scaled Radius of Gyration (two columns: .1 and unmarked)
+* Skewness About (three columns: .1, .2, and unmarked)
+* Hollows Ratio
+* This dataset forms the foundation for analyzing and modeling vehicle classification based on silhouette characteristics.
+
+## Files Attached
+
+-[Colab Notebook](https://colab.research.google.com/drive/1cX_UFFYLrmV87AEKBtnWU9e0t_Hqs62E?usp=sharing)
